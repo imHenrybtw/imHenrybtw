@@ -37,5 +37,5 @@ I am specializing in areas related to DevOps and infrastructure, with the goal o
 
 ### **GitHub Stats**
 
-![FronHenry GitHub stats](https://github-readme-stats.vercel.app/api?username=FrontHenry&count_private=true&show_icons=true&theme=panda)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrontHenry&layout=compact)](https://github.com/FrontHenry)
+![FronHenry GitHub stats](https://github-readme-stats.vercel.app/api?username=imHenrybtw&count_private=true&show_icons=true&theme=panda)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imHenrybtw&layout=compact)](https://github.com/imHenrybtw)
