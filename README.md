@@ -1,27 +1,40 @@
 ## **Henry Victor**
 
-### *Currently working*
+### *Currently working - Leader of Technical Support*
+### **Transitioning to SRE / Infrastructure / DevOps**
 
-I am specializing in areas related to DevOps and infrastructure, with the goal of becoming a **Site Reliability Engineer (SRE)**.
+I am a Technical Support Lead with experience in corporate environments based on Windows Server, Active Directory, user administration, and internal automations using PowerShell and Golang.
+
+Currently, I am deepening my studies in Linux, Golang, and Google Cloud, with the goal of migrating to a career focused on **SRE (Site Reliability Engineering) and DevOps**.
 
 ---
 
 ### **Skills**
 
-<div style="display: inline_block">
-  <img align="center" alt="HTML-logo" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS-logo" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="JQuery-logo" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"/>
-</div>
+<div style="display: inline_block"><br> <img align="center" alt="Windows" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> <img align="center" alt="PowerShell" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg"/> <img align="center" alt="Active Directory" height="45" src="https://img.icons8.com/color/48/active-directory.png"/> <img align="center" alt="Golang" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/> </div>
 
 ---
 
 ### **Technologies I’m Learning**
 
-<div>
-  <img align="center" alt="shell-logo" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />   
-  <img align="center" alt="java-logo" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />          
-</div>
+<div style="display: inline_block"><br> <img align="center" alt="Linux" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> <img align="center" alt="Golang" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/> <img align="center" alt="GoogleCloud" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> </div>
+
+---
+
+### **I typically work with:**
+PowerShell process automation;
+
+Active Directory user and group management;
+
+Internal Go tools for administrative routines;
+
+Organization and standardization of support processes;
+
+Scripts for auditing, reporting, and repetitive tasks;
+
+(Generic versions of these automations will be published soon.)
+
+
 
 ---
 
