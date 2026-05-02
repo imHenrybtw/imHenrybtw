@@ -1,54 +1,75 @@
-## **Henry Victor**
+# Henry Victor Passold Gomes
 
-### *Currently working - Leader of Technical Support*
-### **Transitioning to SRE / Infrastructure / DevOps**
+**IT Infrastructure & Support Lead** · Joinville, SC, Brazil
 
-I am a Technical Support Lead with experience in corporate environments based on Windows Server, Active Directory, user administration, and internal automations using PowerShell and Golang.
+Technical Support Lead with hands-on experience in hybrid corporate environments — Active Directory, Microsoft 365, firewalls, monitoring, and process automation. Currently deepening expertise in cloud infrastructure (Azure/GCP) to grow into senior infrastructure and cloud operations roles.
 
-Currently, I am deepening my studies in Linux, Golang, and Google Cloud, with the goal of migrating to a career focused on **SRE (Site Reliability Engineering) and DevOps**.
-
----
-
-### **Skills**
-
-<div style="display: inline_block"><br> <img align="center" alt="Windows" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> <img align="center" alt="PowerShell" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg"/> <img align="center" alt="Active Directory" height="45" src="https://img.icons8.com/color/48/active-directory.png"/> <img align="center" alt="Golang" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/> </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-victor-passold-gomes)
+![Visitors](https://komarev.com/ghpvc/?username=imHenrybtw&color=0077B5&style=flat)
 
 ---
 
-### **Technologies I’m Learning**
+## 🛠 Tech Stack
 
-<div style="display: inline_block"><br> <img align="center" alt="Linux" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> <img align="center" alt="Golang" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/> <img align="center" alt="GoogleCloud" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> </div>
+**Infrastructure & Identity**
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Entra_ID_(Azure_AD)-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+**Microsoft 365 & Security**
+![M365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white)
+![Exchange](https://img.shields.io/badge/Exchange_Online-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)
+![Defender](https://img.shields.io/badge/Microsoft_Defender-00B4D8?style=flat&logo=microsoft&logoColor=white)
+
+**Networking & Security**
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat&logo=fortinet&logoColor=white)
+![SonicWall](https://img.shields.io/badge/SonicWall-F26522?style=flat&logo=sonicwall&logoColor=white)
+![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=flat&logo=ubiquiti&logoColor=white)
+
+**Monitoring & ITSM**
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat&logo=zabbix&logoColor=white)
+![PRTG](https://img.shields.io/badge/PRTG-009933?style=flat)
+![GLPI](https://img.shields.io/badge/GLPI_(ITIL4)-4DAA4F?style=flat)
+![SnipeIT](https://img.shields.io/badge/SnipeIT-4DAA4F?style=flat)
+
+**Automation & Scripting**
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+**Systems & Cloud**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_(studying)-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ---
 
-### **I typically work with:**
-PowerShell process automation;
+## 📦 Projects
 
-Active Directory user and group management;
+### 🤖 WhatsApp IT Support Bot · `Go` · *In development*
+Corporate helpdesk bot delivered via WhatsApp, built in Go as a multi-package project and deployed via `systemd` on a Linux VM.
 
-Internal Go tools for administrative routines;
+**Integrations:** Active Directory (LDAPS) · FortiGate REST API · GLPI · Microsoft Teams (Adaptive Cards) · PostgreSQL
 
-Organization and standardization of support processes;
-
-Scripts for auditing, reporting, and repetitive tasks;
-
-(Generic versions of these automations will be published soon.)
-
-
+**Features:** Multi-state conversation management · Human agent handoff · Automated CSAT surveys via GLPI
 
 ---
 
-### **Where to Find Me**
+### ⚙️ PowerShell Automation Toolkit · `PowerShell` · *Publishing soon*
+Collection of production-grade scripts used in real corporate environments.
 
-<div>
-  <a href="https://www.linkedin.com/in/henry-victor-passold-gomes" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-</div>
+**Includes:**
+- Process automation and system integrations (achieved ~83% reduction in operational workload, equivalent to 1 FTE)
+- IT audit and reporting scripts — inventory exports, AD account reviews, license usage, and compliance snapshots
 
 ---
 
-### **GitHub Stats**
+## 📊 GitHub Stats
 
-![FronHenry GitHub stats](https://github-readme-stats.vercel.app/api?username=imHenrybtw&count_private=true&show_icons=true&theme=panda)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imHenrybtw&layout=compact)](https://github.com/imHenrybtw)
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=imHenrybtw&count_private=true&show_icons=true&theme=default&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imHenrybtw&layout=compact&theme=default&hide_border=true" />
+</p>
+
+---
+
+*Open to infrastructure, cloud operations, and technical support roles.*
