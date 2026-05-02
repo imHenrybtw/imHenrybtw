@@ -63,13 +63,4 @@ Collection of production-grade scripts used in real corporate environments.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=imHenrybtw&count_private=true&show_icons=true&theme=default&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imHenrybtw&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
 *Open to infrastructure, cloud operations, and technical support roles.*
