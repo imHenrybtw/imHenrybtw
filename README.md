@@ -54,13 +54,13 @@ Corporate helpdesk bot delivered via WhatsApp, built in Go as a multi-package pr
 
 ---
 
-### ⚙️ PowerShell Automation Toolkit · `PowerShell`
-Collection of production-grade scripts used in real corporate environments.
-
-**Includes:**
-- Process automation and system integrations (achieved ~83% reduction in operational workload, equivalent to 1 FTE)
-- IT audit and reporting scripts — inventory exports, AD account reviews, license usage, and compliance snapshots
-
+### ⚙️ [okto-ad-sync](https://github.com/imHenrybtw/okto-ad-sync) · `PowerShell` · *Production*
+Synchronizes WhatsApp access across Active Directory groups and FortiGate firewalls based on real-time Okto API status.
+ 
+**Integrations:** Active Directory (LDAP) · FortiGate REST API (multi-site) · Okto API
+ 
+**Features:** Profile-based group classification · AES-256 encrypted credentials · Delta audit (JSON) · Multi-site firewall deauth · Structured logging by category · Achieved ~83% reduction in operational workload (1 FTE equivalent)
+ 
 ---
 
 *Open to infrastructure, cloud operations, and technical support roles.*
