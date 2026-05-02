@@ -54,7 +54,7 @@ Corporate helpdesk bot delivered via WhatsApp, built in Go as a multi-package pr
 
 ---
 
-### ⚙️ PowerShell Automation Toolkit · `PowerShell` · *Publishing soon*
+### ⚙️ PowerShell Automation Toolkit · `PowerShell`
 Collection of production-grade scripts used in real corporate environments.
 
 **Includes:**
