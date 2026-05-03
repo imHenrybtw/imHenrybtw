@@ -58,7 +58,7 @@ Corporate helpdesk bot delivered via WhatsApp, built in Go as a multi-package pr
 ### ⚙️ [WhatsApp-AccessSync](https://github.com/imHenrybtw/WhatsApp-AccessSync) · `PowerShell` · *Production*
 Synchronizes WhatsApp access across Active Directory groups and FortiGate firewalls based on real-time Okto API status.
  
-**Integrations:** Active Directory (LDAP) · FortiGate REST API (multi-site) · Okto API
+**Integrations:** Active Directory (LDAP) · FortiGate REST API (multi-site) · third-party API
  
 **Features:** Profile-based group classification · AES-256 encrypted credentials · Delta audit (JSON) · Multi-site firewall deauth · Structured logging by category · Achieved ~83% reduction in operational workload (1 FTE equivalent)
  
