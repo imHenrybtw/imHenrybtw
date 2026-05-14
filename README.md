@@ -46,7 +46,8 @@ Technical Support Lead with hands-on experience in hybrid corporate environments
 
 ## 📦 Projects
 
-### 🤖 WhatsApp IT Support Bot · `Go` · *In development*
+
+### 🤖 [remote-support-bot](https://github.com/imHenrybtw/remote-support-bot) · `Go` · *In development*
 Corporate helpdesk bot delivered via WhatsApp, built in Go as a multi-package project and deployed via `systemd` on a Linux VM.
 
 **Integrations:** Active Directory (LDAPS) · FortiGate REST API · GLPI · Microsoft Teams (Adaptive Cards) · PostgreSQL
