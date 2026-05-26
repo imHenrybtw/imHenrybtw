@@ -2,9 +2,7 @@
 
 **IT Infrastructure & Support Lead** · Joinville, SC, Brazil
 
-Technical Support Lead with hands-on experience in hybrid corporate environments,
-Active Directory, Microsoft 365, firewalls, monitoring, and process automation. 
-Pursuing **AZ-104 Azure Administrator** and **ITIL 4 Foundation**.
+Reduced my team's operational workload by ~83% through end-to-end automation — equivalent to 1 FTE freed. Technical Support Lead with hands-on experience in hybrid Microsoft environments: Active Directory, Entra ID, Microsoft 365, FortiGate firewalls, and ITIL4-structured ITSM. Pursuing AZ-104 Azure Administrator certification. Open to remote infrastructure and cloud operations roles.
 GCP fundamentals studied - Associate certification planned.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-victor-passold-gomes)
