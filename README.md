@@ -2,7 +2,10 @@
 
 **IT Infrastructure & Support Lead** · Joinville, SC, Brazil
 
-Technical Support Lead with hands-on experience in hybrid corporate environments — Active Directory, Microsoft 365, firewalls, monitoring, and process automation. Currently deepening expertise in cloud infrastructure (Azure/GCP) to grow into senior infrastructure and cloud operations roles.
+Technical Support Lead with hands-on experience in hybrid corporate environments,
+Active Directory, Microsoft 365, firewalls, monitoring, and process automation. 
+Pursuing **AZ-104 Azure Administrator** and **ITIL 4 Foundation**.
+GCP fundamentals studied - Associate certification planned.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-victor-passold-gomes)
 ![Visitors](https://komarev.com/ghpvc/?username=imHenrybtw&color=0077B5&style=flat)
@@ -41,6 +44,20 @@ Technical Support Lead with hands-on experience in hybrid corporate environments
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure_(studying)-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Streak](https://streak-stats.demolab.com/?user=imHenrybtw&theme=github-dark&hide_border=true)
+
+---
+
+## 🎯 Currently
+
+- 🏆 Pursuing **ITIL 4 Foundation** certification
+- ☁️ Studying for **AZ-104** Azure Administrator Associate
+- 🤖 Building [`remote-support-bot`](https://github.com/imHenrybtw/remote-support-bot) in Go
 
 ---
 
