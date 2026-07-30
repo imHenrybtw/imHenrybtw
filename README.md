@@ -53,7 +53,6 @@ GCP fundamentals studied - Associate certification planned.
 
 ## 🎯 Currently
 
-- 🏆 Pursuing **ITIL 4 Foundation** certification
 - ☁️ Studying for **AZ-104** Azure Administrator Associate
 - 🤖 Building [`remote-support-bot`](https://github.com/imHenrybtw/remote-support-bot) in Go
 
