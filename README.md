@@ -2,7 +2,7 @@
 
 **IT Infrastructure & Support Lead** · Joinville, SC, Brazil
 
-Reduced my team's operational workload by ~83% through end-to-end automation — equivalent to 1 FTE freed. Technical Support Lead with hands-on experience in hybrid Microsoft environments: Active Directory, Entra ID, Microsoft 365, FortiGate firewalls, and ITIL4-structured ITSM. Pursuing AZ-104 Azure Administrator certification. Open to remote infrastructure and cloud operations roles.
+I reduced my team's operational workload for a specific activity by approximately 83% through end-to-end automation - the equivalent of freeing up one FTE. Technical Support Lead with hands-on experience in hybrid Microsoft environments: Active Directory, Entra ID, Microsoft 365, FortiGate firewalls, and ITIL4-structured ITSM. Currently exploring a transition toward Cybersecurity (SOC/DFIR/GRC) — hands-on with SIEM (Wazuh) incident investigation and studying MITRE ATT&CK / NIST SP 800-61. Pursuing AZ-104 Azure Administrator certification.
 GCP fundamentals studied - Associate certification planned.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-victor-passold-gomes)
@@ -21,6 +21,12 @@ GCP fundamentals studied - Associate certification planned.
 ![M365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white)
 ![Exchange](https://img.shields.io/badge/Exchange_Online-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)
 ![Defender](https://img.shields.io/badge/Microsoft_Defender-00B4D8?style=flat&logo=microsoft&logoColor=white)
+
+**Security & Detection**
+![Wazuh](https://img.shields.io/badge/Wazuh_(SIEM)-004494?style=flat)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=flat)
+![Fail2ban](https://img.shields.io/badge/Fail2ban-000000?style=flat)
+![AppArmor](https://img.shields.io/badge/AppArmor-2C5E9E?style=flat)
 
 **Networking & Security**
 ![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat&logo=fortinet&logoColor=white)
@@ -54,12 +60,19 @@ GCP fundamentals studied - Associate certification planned.
 ## 🎯 Currently
 
 - ☁️ Studying for **AZ-104** Azure Administrator Associate
+- 🔐 Studying Cybersecurity fundamentals (MITRE ATT&CK, NIST SP 800-61) and building a personal hardening/monitoring lab
 - 🤖 Building [`remote-support-bot`](https://github.com/imHenrybtw/remote-support-bot) in Go
 
 ---
 
 ## 📦 Projects
 
+### 🔐 Security Hardening & Monitoring Lab · *Personal, ongoing*
+Dedicated Arch Linux environment as a security lab: `firewalld`, `fail2ban` with exponential backoff, `AppArmor`, and a Wazuh agent reporting to an Oracle Cloud instance.
+
+**Tooling:** Lynis (auditing/hardening) · AIDE (file integrity) · osquery (system monitoring)
+
+---
 
 ### 🤖 [remote-support-bot](https://github.com/imHenrybtw/remote-support-bot) · `Go` · *In development*
 Corporate helpdesk bot delivered via WhatsApp, built in Go as a multi-package project and deployed via `systemd` on a Linux VM.
@@ -79,4 +92,4 @@ Synchronizes WhatsApp access across Active Directory groups and FortiGate firewa
  
 ---
 
-*Open to infrastructure, cloud operations, and technical support roles.*
+*Open to infrastructure, cloud operations, and technical support roles — and exploring opportunities in Cybersecurity (SOC / DFIR / GRC).*
